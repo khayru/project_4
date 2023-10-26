@@ -1,4 +1,4 @@
-# Project 4
+# Project 
 Are you a good credit card client?? 
 
 Group members: Jessica Clewis, Nikita Jain, Stephen Roberts, Khayria Ibrahim higo
